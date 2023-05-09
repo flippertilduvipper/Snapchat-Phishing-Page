@@ -1,14 +1,31 @@
-# Snapchat-Phishing-Page by 1zu0
-The Responsive Phishing Page for Snapchat 2020
+# SnapCrack
+## A Multi-Threaded, API-Based Snapchat Cracker With Auto-Proxy Rotation
 
-1. Change the ending of the file "hwto" to .txt and read...
+[educational purposes only] [ lol ]
+![bigfatweenierinurbum](Screenshot_20210730_094243.png)
 
-2. Open data.php with an editor and change the redirected url to an error page
+## [ Work in progress! ]
 
-3. Simply upload the files to your server
+---
 
-This is purely for the educational purposes and is not intended to hurt anyone
+## [ Installation: ]
 
-<img src="https://i.imgur.com/MTT09RJ.png">
+```
+git clone https://github.com/0bliss/snapcrack
+cd snapcrack
+pip3 install -r requirements.txt
+```
 
-<img src="https://i.imgur.com/Xk97qXy.png">
+## [ Usage: ]
+Create/Download A Password List.
+
+```
+$ python3 snapcrack.py < user > < /path/to/file.xyz > < # Threads >
+```
+
+
+Then get high
+
+## Developers: 
+### 0bliss
+#### anxiety@0-n0.ru | Datura Data ♥
